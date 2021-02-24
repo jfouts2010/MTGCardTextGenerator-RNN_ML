@@ -1,0 +1,595 @@
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains protection from black and/from red graveyard of your library you may play that card with converted mana cost x or less and put it onto the battlefield as a player may activate this ability only any time you could cast a sorcery<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 3 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped nonblack creature<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minusone> <minuszero> and gain first strike until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn target opponent creates a 1/1 green histap creature unless its controller pays {1}<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a 1/1 red until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target artifact or enchantment<endofcard>
+<STARTOFCARD>
+ <endofcost> returns hith base power and toughness 8/8 flying and first strike and first strike as long as you control <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> exiles the top card of their library if it's a land card from or more hatchling counters on it remove all of them and transform it<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plustwo> <plustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to target creature activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green saproling creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> if target artifact you control get <plustwo> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature<endofcard>
+<STARTOFCARD>
+ <endofcost> put x <plusonecounter> s on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> put a <minusone> <minusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on it remove all of them and transform it<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature without flying and each player any player may activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for an monp<endofcard>
+<STARTOFCARD>
+ <endofcost> if <cardname> is a warrior a creature card in otur library<endofcard>
+<STARTOFCARD>
+ <endofcost> add {b} <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> target spell 2 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature has base power and toughness exiles it the battlefield under your control"<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target artifact or that's an equal to its power and toughness 4/8<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> return this creature to its owner's hand<endofcard>
+<STARTOFCARD>
+ <endofcost> target green creature gets <plusone> <pluszero> and gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter only <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plustwo> <plustwo> and gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/1 green saproling creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to each creature and each player sacrifice it at the beginning of the next end step<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature with power and toughness 3/3<endofcard>
+<STARTOFCARD>
+ <endofcost> return target legendary creature can't cast this turn prevent that damage you gain 1 life<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 5 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> put up to x <plusonecounter> s on <cardname> activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> choose a color that card except it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> return this creature that's a forest until <cardname> leaves the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn sacrifice that creature where x is the number of lands you control a 1/1 green and black and from red until end of turn it's still a land you control a spell's target artifact in additiof its owner's hand<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <minusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gains trample until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plustwo> <plustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> target goblin creature loses a kithkin spirit warrior are for a card named spirit with converted mana cost 5 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> and gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature can't attack or block this turn target opponet draws a card activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plustwo> <plustwo> and gains first strike<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <plustwo> <plustwo> <plustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature without flying it's a spirit it becomes a kithkin spirit warrior with base power and toughness 2/2 until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 3 or less and put it onto the battlefield tapped then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> transform voldaren pariah<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature you control<endofcard>
+<STARTOFCARD>
+ <endofcost> if <cardname> is a swapp until end of turn exile it end of turn activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/3 green bias creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature can't attack or blocking this turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn where x is the number of cards name revealed this way into your graveyard<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <plustwo> <plusthree> and gain first strike spell unless its controller pays {1}<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to each creature at the beginning of the next end step<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 2/2 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature can't attack or block this turn<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> you may put an equipment card from a graveyard then that player may draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> and gains reath flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> ally creatures you control get <plusone> <pluszero> until end of turn target opponent may draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> until you control a <plusonecounter> s on <cardname> " where x is its power and toughness 8/8 flying as long as you control a creature you control get <plustwo> <plustwo> and gain first strike<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature gets <minusone> <minuszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains banding until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> if a search your library for a rebel permanent card with converted mana cost 4 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target"<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green saproling creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to target attacking or blocking creature activate this ability<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate ink-eyes<endofcard>
+<STARTOFCARD>
+ <endofcost> target land card from your graveyard to the battlefield<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a warrior it becomes a kithkin spirit warrior with base power and toughness 4/4<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> if <cardname> enters the battlefield activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> and gains flying until end of turn target opponent discards their hand that player discards a card activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on ludevic's test exile it that spell's target spell that target is <cardname> gets <minustwo> <plustwo> and gain first strike until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a kithkin spirits warrior avatar with base power and toughness 4/4<endofcard>
+<STARTOFCARD>
+ <endofcost> creates a 4/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minusone> <minuszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on lufe<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> reveal the top card of their library if it's a creature card in your graveyard<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target creature and each player discards a card<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> becomes a kithkin spirit warrior artibara into your hand activate this ability<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a 2/2 red goblin creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> put a card of your library until you reveal a basic land card put that card into your hand activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusxplusx> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> on each creature<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> put x <plusonecounter> s on <cardname> activate this ability only any time you could cast a sorcery<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> untap <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green tapped creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minusone> <minustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a card named all other cards revealed this way<endofcard>
+<STARTOFCARD>
+ <endofcost> put two <plusonecounter> s on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on ludeling counters on <cardname> to be greater and toughness 8/8 flying and first strike as long as you control a goblin and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> counter target spell unless its controller control"<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard to the battlefield under your control"<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> dragoy target creature<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 4 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 6 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+as long as you control that's a fungus or another target artifact an opponent's graveyard to your hand<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard to the battlefield<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature you control get <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard to your hand activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> add {b}<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD> where x is the number of clers on ip a land card put it can't be block this turn that's a warc in your graveyard except it's an artifact in addition to its other types it gains 2 life<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on ladeshal <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a 2/2 red goblin creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 5 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> target goblin creature gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <pluszero> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature can't attack or block this turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to each creature and each player<endofcard>
+<STARTOFCARD>
+ <endofcost> target attacking creature gets <plustwo> <plustwo> and gain first strike until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with converted mana cost 5 or less and put it onto the battlefield this way<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature activate this ability only any time you could cast a sorcery<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard to your hand activate this ability only during your turn before attackers ared add {r}{r}{r}{r}<endofcard>
+<STARTOFCARD>
+ <endofcost> prevent the next 1 damage that would be dealt to its this turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <pluszero> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> and gains strike with ba haste for as long as you control a goblin first strike<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> target attacking creature you control gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> put a <plusonecounter> s on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> ally creatures you control get <plusone> <plusone> until end of turn target opponent may draw a card for eich player may draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on ludevic's test subject then if there are five or land card from your hand of a creature you control get <plustwo> <plustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target opponent creates a 1/1 green enail creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target creature activate this ability only any time you could cast a sorcery<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green saproling creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/1 green happ creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> put x <plusonecounter> s on <cardname> <endofcard>
+<STARTOFCARD>
+ <cardname> becomes a kithkin spirit warrior with base power and toughness 4/4<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard to the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a 1/1 creature unless it has " <endofcost> prevent the next 1 damage that would be dealt to its other typesing its mana cost if you don't exile it<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minusone> <minuszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target opponent gains 3 life<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a vithkin spirit warrior it base power and toughness 8/8 flying first strike and lefelink until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put two <plusonecounter> s on <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/3 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green saproling creature tokens with flying and each player any player may activate this ability<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> choose one —<endofcost> target creature you control get <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target player discards a card activate this ability only any time you could cast a sorcery<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains protection from black and from and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target creature activate this ability only during your turn before attstan or more this turn prevent that damage equal to the greatest name activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+unearth {1}{r}{u}<endofcard>
+<STARTOFCARD>
+ <endofcost> until end of turn target opponent creates a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target creature activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying protection from black of target creature to its owner's hand<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains first strike and first strike until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains vigilance until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> return has control get <plustwo> <pluszero> and gains trample until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target attacking creature gets <minuszero> <minuszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> choose a creatures you control get <plustwo> <plustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> prevent the next 1 damage that would be dealt to target creature this turn<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature with the same name as this creature as long as you control a color<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plustwo> <pluszero> and gains protection from black and from red until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plustwo> <pluszero> and gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> you may return <cardname> from your graveyard to your hand activate this ability<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minusone> <minusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a 1/1 creature unless its controller pays {1}<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> and gains flying until end of turn and toughness 3/3<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/3 green sindarw creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature gets <minustwo> <minustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target land<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> and gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard onto their hand activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> return two target cards from an opponent gains 7 life<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains protection from black and from red until end of turn target opponent discards a card<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature can't attack or block this turn where x is the number of colors step<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for an equipment card in your graveyard<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to target goblin<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <minusone> <minusone> <pluszero> until end of turn sacrifice it at the beginning of the next end step<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 3/1 green saproling creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a kithkin spirit warrior avatar with base power and toughness 4/2 until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a player may activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusxplusx> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> target attacking creature gets <plusone> <pluszero> and gains flying until end of turn and each player as you control add only <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> prevent the next time a source of your choice until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to any target activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> if <cardname> remains tapped<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <pluszero> until end of turn target opponent loses 1 life<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <minusone> <plusone> his wasr on a 1/1 red goblin<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> return <cardname> from your graveyard from your graveyard to your hand<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hilare zoplin creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> target creature can't attack or block<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> and gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> and gains flying until end of turn activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 2 damage to any target<endofcard>
+<STARTOFCARD>
+ <endofcost> add {r}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusxplusx> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 2/2 green hippo creature token with flying it has " <endofcost> target attacking creature gets <minustwo> <minustwo> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/1 green hippo creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> regenerate <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target creature and each player any player may activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped have all or blocking creature<endofcard>
+<STARTOFCARD>
+ <endofcost> draw a card<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g} for each creature with the same name put that card into your hand and each player any player may activate this ability only during your upkeep<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> becomes a kithkin spirit warrior are in your hand then reveal the top card of their library to their hand destroy target enchantment<endofcard>
+<STARTOFCARD>
+ <endofcost> search your library for a rebel permanent card with base power and toughness 4/2<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> add {g}<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a kithkin spirit with base power and toughness 8/8 flying and gain indestructible until end of turn where x is the number of cleric or rem lands and put it onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> destroy target tapped creature<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gains flying until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> create a 1/4 green wolf creature token<endofcard>
+<STARTOFCARD>
+ <endofcost> return mullize all of them of remones the chosen color<endofcard>
+<STARTOFCARD>
+ <endofcost> choose a card name add {c} spell you may put an equipment card from your hand onto the battlefield then shuffle your library<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> becomes a kithkin spirit warrior avatar with base power and toughness 4/8 until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> untap <cardname> <endofcard>
+<STARTOFCARD>
+ <endofcost> target player discards a card activate this ability only during your turn before attackers are declared<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> deals 1 damage to target creature<endofcard>
+<STARTOFCARD>
+ <endofcost> each creature you control get <plusone> <pluszero> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> put a hatchling counter on ludevic's test subject it at the beginning of the next end step<endofcard>
+<STARTOFCARD>
+ <endofcost> <cardname> gets <plusone> <plusone> until end of turn<endofcard>
+<STARTOFCARD>
+ <endofcost> add {c}"<endofcard>
+<STARTOFCARD>
+ <endofcost> target land becomes a forest until <cardname> leaves the battlefield under your control"<endofcard>
+<STARTOFCARD>
+ <endofcost> gain control of target creature can't attack or block <cardname> this turn<endofcard>
